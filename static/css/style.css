@@ -159,13 +159,38 @@ margin-top: 12px;
   float: none;
   text-align: center;
   display: block;
-  margin: 15px auto;
+  margin: 5px auto;
+}
+.app-store{
+  margin-top: 30px;
+  width: 145px;
+}
+.hero-banner{
+  position: relative;
+  height: 800px;
+  overflow: visible;
 }
 .google-play{
-  float: none;
   text-align: center;
   display: block;
-  margin: 4px auto;
+  margin: 5px auto;
+  width: 170px;
 }
-
+.navbar-toggler{
+  display: none;
+}
+.navbar-brand{
+  display: block;
+  padding: 0!important;
+  margin: 10px auto!important;
+}
+.hero-text{
+  padding: 15px;
+}
+.ddom{
+  display: none;
+}
+.modm{
+  margin-top: 200px;
+}
 }
